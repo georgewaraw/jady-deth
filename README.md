@@ -23,11 +23,11 @@ Tap **UPPER LEFT SIDE** to ***left punch***, **UPPER RIGHT SIDE** to ***right pu
 
 #### MISC
 
-###### Moves' Strengths:
+###### MOVES' STRENGTHS:
 ***Left Punch (5 pts)*** < ***Right Punch (7 pts)*** < ***Left Kick (9 pts)*** < ***Right Kick (11 pts)***\
 *Stronger moves are slower.*
 
-###### Move Canceling:
+###### MOVE CANCELING:
 ***Left Punch*** cancels into ***Right Punch***, ***Left Kick***, and ***Right Kick***.\
 ***Right Punch*** cancels into ***Left Kick*** and ***Right Kick***.\
 ***Left Kick*** cancels into ***Right Kick***.\
