@@ -1,0 +1,29 @@
+{
+  "files": {
+    "main.js": "/jady-deth/static/js/main.a463beec.js",
+    "static/media/jady_idle.fbx": "/jady-deth/static/media/jady_idle.26ea36149016e8b5c4bc.fbx",
+    "static/media/deth_idle.fbx": "/jady-deth/static/media/deth_idle.4fae933821c949a3f38b.fbx",
+    "static/media/deth_punch.fbx": "/jady-deth/static/media/deth_punch.febc03d5373ef1518fc9.fbx",
+    "static/media/deth_kick.fbx": "/jady-deth/static/media/deth_kick.e075eb354be29dc60085.fbx",
+    "static/media/jady_kick_right.fbx": "/jady-deth/static/media/jady_kick_right.3e0d682be543275ddf2f.fbx",
+    "static/media/jady_kick_left.fbx": "/jady-deth/static/media/jady_kick_left.63fa9b829bfa19d7227b.fbx",
+    "static/media/stage.glb": "/jady-deth/static/media/stage.0034178cac3778cd31b9.glb",
+    "static/media/jady_punch_right.fbx": "/jady-deth/static/media/jady_punch_right.23b14940d2a82e008dd9.fbx",
+    "static/media/jady_punch_left.fbx": "/jady-deth/static/media/jady_punch_left.9998efe02cfab6da456f.fbx",
+    "static/media/music.mp3": "/jady-deth/static/media/music.58d7e05e5f69d475fbbf.mp3",
+    "static/media/deth_hit.mp3": "/jady-deth/static/media/deth_hit.6a600b4b1065f833d7d4.mp3",
+    "static/media/deth_kick.mp3": "/jady-deth/static/media/deth_kick.a9532a9541808c2e6115.mp3",
+    "static/media/deth_punch.mp3": "/jady-deth/static/media/deth_punch.350c372225541277be37.mp3",
+    "static/media/jady_hit.mp3": "/jady-deth/static/media/jady_hit.6b345cc989a19c124511.mp3",
+    "static/media/jady_kick_left.mp3": "/jady-deth/static/media/jady_kick_left.171d44096ee43ce15c3c.mp3",
+    "static/media/jady_kick_right.mp3": "/jady-deth/static/media/jady_kick_right.0ceddeae200381dd70a4.mp3",
+    "static/media/jady_punch_left.mp3": "/jady-deth/static/media/jady_punch_left.22949bfa2e21cd47c1d5.mp3",
+    "static/media/jady_punch_right.mp3": "/jady-deth/static/media/jady_punch_right.ee31cef8fefec4867234.mp3",
+    "static/media/jady_sidestep.mp3": "/jady-deth/static/media/jady_sidestep.94168700f4911ba3ed0d.mp3",
+    "index.html": "/jady-deth/index.html",
+    "main.a463beec.js.map": "/jady-deth/static/js/main.a463beec.js.map"
+  },
+  "entrypoints": [
+    "static/js/main.a463beec.js"
+  ]
+}

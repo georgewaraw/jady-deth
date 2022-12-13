@@ -1,0 +1,27 @@
+:root { --border: min(11vw, 11vh) }
+
+* {
+	overflow: hidden;
+
+	touch-action: none;
+	user-select: none;
+	-webkit-user-select: none;
+}
+
+body {
+	margin: calc( var(--border) / 2 );
+
+	background: plum;
+}
+
+div {
+	width: calc( 100vw - var(--border) );
+	height: calc( 100vh - var(--border) );
+
+	display: flex;
+	justify-content: center; /* horizontally */
+	align-items: center; /* vertically */
+
+	font: 15vw monospace;
+	color: peru;
+}
