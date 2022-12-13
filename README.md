@@ -8,6 +8,8 @@ is a concept demo for a 3D fighter.
 
 *Hit the CPU opponent to score points. Time your dodges to make sure he doesn't. First to score 100 points wins!*
 
+---
+
 #### CONTROLS
 
 ###### DESKTOP
@@ -20,6 +22,8 @@ Press **Q** to ***left punch***, **W** to ***right punch***, **A** to ***left ki
 
 Tap **CENTER** of the screen to ***sidestep*** opponent's attacks.\
 Tap **UPPER LEFT SIDE** to ***left punch***, **UPPER RIGHT SIDE** to ***right punch***, **LOWER LEFT SIDE** to ***left kick***, and **LOWER RIGHT SIDE** to ***right kick***.
+
+---
 
 #### MISC
 
